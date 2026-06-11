@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hey, I'm **Arbab Sra** — a full-stack developer obsessed with building scalable, production-ready systems.
+👋 Hey, I'm **Arbab Sra**  a full-stack developer obsessed with building scalable, production-ready systems.
 
 I work across the full stack with **React, Next.js, Node.js, Bun.js**, and go deep into backend infrastructure — **PostgreSQL, MongoDB, Redis, Kafka**, container orchestration with **Docker & Kubernetes**, and cloud deployments on **AWS**.
 
