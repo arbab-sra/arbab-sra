@@ -7,6 +7,8 @@ I work across the full stack with **React, Next.js, Node.js, Bun.js**, and go de
 I love designing clean architectures, automating deployments, and experimenting with distributed systems. Right now I'm leveling up my engineering craft while pursuing BCA at CCSU — pushing myself to build deeper, not just faster.
 
 🚀 Latest project: [exchange.arbab.fun](https://exchange.arbab.fun)
+🚀 Portfolio project: [portfolio.arbab.fun](https://portfolio.arbab.fun/)
+
 
 ---
 
